@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React.js, methods and life cycles
+
+To use any method, in the src/app.js, remove the desired component and its import command from the comment mode
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
